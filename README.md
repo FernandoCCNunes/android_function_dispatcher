@@ -5,7 +5,7 @@ function_dispatcher
 
 
 
-**l fOnSomethingChanged = FunctionDispatcherNoParams()**
+**val fOnSomethingChanged = FunctionDispatcherNoParams()**
 
 **fOnSomethingChanged.bind(this, this::notifyWhenSomethingHasChanged)**
 
