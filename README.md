@@ -9,6 +9,8 @@ function_dispatcher
 
 **fOnSomethingChanged.bind(this, this::notifyWhenSomethingHasChanged)**
 
+**fOnSomethingChanged.broadcast()**
+
 **fun notifyWhenSomethingHasChanged() {
   ...
 }**
