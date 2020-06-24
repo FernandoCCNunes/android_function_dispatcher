@@ -1,0 +1,3 @@
+include ':function_dispatcher'
+include ':app'
+rootProject.name = "function_dispatcher_example"
